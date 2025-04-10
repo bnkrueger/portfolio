@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Projects</b>
-  - [Dating app for animal adpotion](https://github.com/ngluunhatson/pawsome-frontend)
+  - [Dating app for animal adpotion](https://github.com/bnkrueger/dating-app-for-animal-adoption)
 - <b>Full Stack Web App (React, NodeJS, Directus, and Machine Learning Components)</b>
   
 
